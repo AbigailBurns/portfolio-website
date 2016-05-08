@@ -1,0 +1,33 @@
+body {
+background: #A8CAFD;
+text-align: center
+}  
+#main {	
+width: 1000px;
+height: 600px;
+margin: 25px auto;
+padding: 10px;
+}
+h1 {
+	text-align: center; 
+	font-family: "calibri";
+	font: 24pt;
+	color: #110f00;
+}
+h2 {
+	text-align: left;
+	font-family: "calibri";
+	font: 18pt;
+	color: #110f00;
+	
+}
+hr {
+	height: 2px;
+	color: ##110f00;
+}
+p {
+	font-family: "calibri";
+	font-size: 14pt;
+	text-align: left;
+	color: #110f00;
+}
